@@ -1,7 +1,0 @@
-# Autocomplete utils
-
-# Case-insensitive
-set completion-ignore-case on
-
-# List all matches
-set show-all-if-ambiguous on
